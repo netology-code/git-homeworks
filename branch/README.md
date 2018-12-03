@@ -25,7 +25,7 @@
 
 1. Склонируйте Git-репозиторий [по ссылке](https://github.com/netology-code/git-homeworks-neuro-callbackup);
 1. Создайте ветку **feature/callbackup** и переключитесь на неё;
-1. Интегрируйте CallbackUp согласно [инструкции](branches/callbackup.md);
+1. Интегрируйте CallbackUp согласно [инструкции](/callbackup.md);
 1. Создайте отдельный репозиторий на GitHub'е;
 1. Добавьте remote origin в свой локальный репозиторий и отправьте сделанные вами изменения на GitHub;
 1. Убедитесь, что ветка **feature/callbackup** тоже попала на GitHub.
