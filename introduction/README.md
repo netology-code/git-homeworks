@@ -31,10 +31,39 @@ _Логотип_:
 1. Запушьте все изменения GitHub;
 1. Убедитесь, что через веб-интерфейс GitHub можно посмотреть список файлов, список коммиттов изменения, сделанные каждым коммиттом.
 
-
 **В качестве результата пришлите проверяющему** 
 1. Ссылку на ваш GitHub проект;
 1. Ссылки на оба коммита.
+
+<details>
+    <summary>Подсказка</summary>
+
+Страница HTML должна выглядеть вот так:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>NeuroStartUp</title>
+</head>
+<body>
+    <h1><img src="logo.png"></h1>
+    <p>Наши преимущества:</p>
+    <ul>
+        <li>Высокая точность поиска</li>
+        <li>Высокая скорость поиска</li>
+        <li>Низкая цена</li>
+    </ul>
+</body>
+</html>
+```
+
+Где `logo.png` - это логотип (кликаете правой кнопкой - "Сохранить как"), сохранённый рядом с файлом `index.html`.
+
+</details>
 
 ## Задача №2 - Импорт существующего проекта
 
