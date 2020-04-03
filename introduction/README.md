@@ -39,7 +39,7 @@ _Можете скопировать разметку из подсказки и
 1. Ссылки на коммит.
 
 <details>
-    <summary>Подсказка №2: Markdown-разметка для файла README.md</summary>
+    <summary>Подсказка: Markdown-разметка для файла README.md</summary>
 
 ```markdown
 # NeuroStartUp
