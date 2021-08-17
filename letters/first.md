@@ -45,11 +45,15 @@
 <div style="padding: 10px; font-size: 1.2em; border: 1px solid rgba(255 0 0 / 0.5)">
 С 13 августа 2021 году GitHub отменил авторизацию по паролю. Теперь нужно указывать так называемый токен. Вы будете указывать этот токен вместо пароля при работе с репозиториями. Его нужно сгенерировать в настройках вашего профиля на сайте и сохранить в надёжном месте.
 
-> [Инструкция по созданию токена для GitHub](https://github.com/netology-code/guides/tree/master/github-access-token)
+<div style="margin: 15px 0;">
+    <a href="https://github.com/netology-code/guides/tree/master/github-access-token">Инструкция по созданию токена для GitHub</a>
+</div>
 
 Если вы уже успели ранее ввести пароль и GitHub не спрашивает у вас авторизационные данные снова и у вас нет возможности ввести токен, то воспользуйтесь этой инструкцией:
 
-> [Решение ошибки 403 при работе с репозиторием](https://github.com/netology-code/guides/tree/master/github-403)
+<div style="margin: 15px 0;">
+    <a href="https://github.com/netology-code/guides/tree/master/github-403">Решение ошибки 403 при работе с репозиторием</a>
+</div>
 </div>
 
 ## _Разговорчивый_ GIT
