@@ -57,7 +57,7 @@ pod "neuro-ios-sdk"
 
 ### Задача
 
-1. Склонируйте Git-репозиторий [по ссылке](https://github.com/netology-code/git-homeworks-neuro-merge/tree/master) ;
+1. Клонируйте Git-репозиторий [по ссылке](https://github.com/netology-code/git-homeworks-neuro-merge/tree/master) ;
 1. Слейте ветку **origin/feature/earlyorder** с веткой **master** 
 1. Разрешите появившийся при слиянии конфликт;
 1. Создайте отдельный репозиторий на GitHub'е;
@@ -81,7 +81,7 @@ pod "neuro-ios-sdk"
 
 ### Задача
 
-1. Склонируйте Git-репозиторий [по ссылке](https://github.com/netology-code/git-homeworks-neuro-broken);
+1. Клонируйте Git-репозиторий [по ссылке](https://github.com/netology-code/git-homeworks-neuro-broken);
 1. Переключитесь на коммит `c2e06a`, удостоверьтесь, что функция работает*;
 1. Переключитесь на последний коммит;
 1. Используя команды переключения между коммитами, определите в каком коммите и кем была внесена ошибка. После переключения между коммитами обновляйте открытый в браузере файл `index.html`.
