@@ -1,4 +1,4 @@
-# Решение к самостоятельному заданию «Создание репозитория на Github»
+# Инструкция по выполнению самостоятельного задания «Создание репозитория на Github»
 
 Перед решением этой задачи вам нужно [зарегистрироваться на сайте GitHub](https://github.com/netology-code/guides/tree/master/github) и [установить Git](https://github.com/netology-code/guides/tree/master/git) на ваш компьютер.
 
